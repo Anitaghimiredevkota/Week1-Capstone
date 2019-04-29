@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Pig_Latin_project\Pig_Latin_project\bin\Debug\Pig_Latin_project.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Pig_Latin_project\Pig_Latin_project\bin\Debug\Pig_Latin_project.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Pig_Latin_project\Pig_Latin_project\bin\Debug\Pig_Latin_project.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Pig_Latin_project\Pig_Latin_project\obj\Debug\Pig_Latin_project.csprojAssemblyReference.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Pig_Latin_project\Pig_Latin_project\obj\Debug\Pig_Latin_project.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Pig_Latin_project\Pig_Latin_project\obj\Debug\Pig_Latin_project.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Pig_Latin_project\Pig_Latin_project\obj\Debug\Pig_Latin_project.pdb
